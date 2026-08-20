@@ -16,7 +16,7 @@
 
 ## Overview
 
-**Eye of Law** is an end-to-end autonomous traffic intelligence and decision-support platform engineered for municipal traffic authorities and smart city hubs. By combining computer vision pipelines and deterministic heuristics, the platform processes traffic camera feeds to autonomously detect multiple infraction categories, perform localized license plate character recognition (OCR), rank junctions by real-time safety risk scores, and generate actionable natural language officer dispatch directives.
+**Eye of Law** is an end-to-end autonomous traffic intelligence and decision-support platform engineered for municipal traffic authorities and smart city hubs.By combining computer vision pipelines and deterministic heuristics, the platform processes traffic camera feeds to autonomously detect multiple infraction categories, perform localized license plate character recognition (OCR), rank junctions by real-time safety risk scores, and generate actionable natural language officer dispatch directives.
 
 The system replaces manual video monitoring with automated evidence generation, helping cities optimize officer deployments and enforce traffic compliance efficiently.
 
