@@ -168,7 +168,7 @@ npm run dev
 
 ## Team
 
-* **Aryan Shan** - *Lead Developer / Systems Engineer* - [GitHub Profile](https://github.com/Aryan-Shan)
+* **Faiz Perwez** - *Frontend Riskmap Leaflet developer* - [GitHub Profile](https://github.com/faizperwez)
 
 ---
 
